@@ -25,4 +25,4 @@ Finally, a paper that describes the development process of the game was written.
 
 Winner of the Julius Maximilians University **Game Of The Year Award 2021**:
 
-http://games.uni-wuerzburg.de/2022/02/07/GOTY/
+[http://games.uni-wuerzburg.de/2022/02/07/GOTY/](https://hci.uni-wuerzburg.de/2022/07/05/Game-of-the-Year-Award/)
