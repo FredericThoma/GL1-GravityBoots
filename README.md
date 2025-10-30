@@ -5,7 +5,6 @@
 | Final Title | `Gravity Boots` |
 | Student | Frederic Thoma, `frederic.thoma@stud-mail.uni-wuerzburg.de |
 | Target Platform(s) | Windows |
-| Start Date | 21.04.2020 |
 | Study Program | Games Engineering B.Sc.|
 
 
